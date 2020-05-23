@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BJT_transistor" size="0.271000 0.152437" />
+    <ImageTarget name="8086processor" size="0.140000 0.111682" />
+  </Tracking>
+</QCARConfig>
